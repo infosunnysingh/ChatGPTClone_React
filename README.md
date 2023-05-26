@@ -41,5 +41,5 @@ npm start
 - react-icons
 - react-markdown
 
-## 📝 License © [infosunnysingh](https://linkedin.com/in/infosunnysingh)
+# [infosunnysingh](https://linkedin.com/in/infosunnysingh)
 
