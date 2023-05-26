@@ -1,5 +1,3 @@
-# ChatGPT clone with DALL.E image generation model
-
 ## One-Click Deploy
 
 ### Deploy to Netlify
